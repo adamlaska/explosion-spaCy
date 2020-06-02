@@ -13,7 +13,7 @@
         "@phosphor/widgets": "^1.6.0",
         "@rehooks/online-status": "^1.0.0",
         "@svgr/webpack": "^4.1.0",
-        "autoprefixer": "^9.4.7",
+        "autoprefixer": "^9.7.4",
         "classnames": "^2.2.6",
         "codemirror": "^5.43.0",
         "gatsby": "^2.1.18",
