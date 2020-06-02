@@ -43,8 +43,8 @@
         "parse-numeric-range": "0.0.2",
         "prismjs": "^1.15.0",
         "prop-types": "^15.7.2",
-        "react": "^16.8.2",
-        "react-dom": "^16.8.2",
+        "react": "^16.13.0",
+        "react-dom": "^16.13.0",
         "react-helmet": "^5.2.0",
         "react-intersection-observer": "^8.0.1",
         "remark-react": "^5.0.1"
