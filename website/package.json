@@ -46,7 +46,7 @@
         "react": "^16.8.2",
         "react-dom": "^16.8.2",
         "react-helmet": "^5.2.0",
-        "react-intersection-observer": "^8.0.1",
+        "react-intersection-observer": "^8.26.1",
         "remark-react": "^5.0.1"
     },
     "scripts": {
