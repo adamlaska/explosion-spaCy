@@ -16,7 +16,7 @@
         "autoprefixer": "^9.4.7",
         "classnames": "^2.2.6",
         "codemirror": "^5.43.0",
-        "gatsby": "^2.1.18",
+        "gatsby": "^4.19.0",
         "gatsby-image": "^2.0.29",
         "gatsby-mdx": "^0.3.6",
         "gatsby-plugin-catch-links": "^2.0.11",
@@ -46,7 +46,7 @@
         "react": "^16.8.2",
         "react-dom": "^16.8.2",
         "react-helmet": "^5.2.0",
-        "react-intersection-observer": "^8.0.1",
+        "react-intersection-observer": "^8.25.0",
         "remark-react": "^5.0.1"
     },
     "scripts": {
